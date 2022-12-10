@@ -30,6 +30,6 @@ My early years were spent at Managed Service Providers performing various roles 
 
 Recently I have spent my life as a Senior Network Engineer running a vSphere hosting platform and its related datacentre functions, moving into the Wireless Internet Service Provider world.
 
-In the background my curiosity for Cyber Security has grown and evolved into actual work, with some CVEs credited to my name, so expect some writeups to come through soon :wink:
+In the background my curiosity for Cyber Security has grown and evolved into actual work, with some CVEs credited to my name, so expect some writeups to come through soon
 
 :wave:
