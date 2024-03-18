@@ -1,6 +1,6 @@
 ---
-title: Siklu TG Series - Unauthenticated Credential Disclosure and Static Root Credentials
-tags: research cve security siklu
+title: CVE-2022-47036 & CVE-2022-47037 - Siklu TG Series - Unauthenticated Credential Disclosure and Static Root Credentials
+tags: research cve security siklu CVE-2022-47036 CVE-2022-47037
 author: Andrew
 ---
 
@@ -93,6 +93,10 @@ After submitting the disclosure report to Siklu they released the 2.1.1 firmware
 Siklu did not provide public advice in the release notes of this security issue being resolved.
 
 As for the static root password, it will be removed from new devices in a hardware fix, with no mitigations available for existing products.
+
+These vulnerabilities were assigned the following CVE IDs
+- [CVE-2022-47036](https://www.cve.org/CVERecord?id=CVE-2022-47036) - Hardcoded Root Credentials
+- [CVE-2022-47037](https://www.cve.org/CVERecord?id=CVE-2022-47037) - Unauthenticated Credential Disclosure
 
 **Affected Products:**
 
